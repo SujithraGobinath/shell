@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1727803400,,"wq!"
+|2,0,1727808157,,"wq!"
 :q!
 |2,0,1727802935,,"q!"
 :wq1
@@ -34,34 +34,46 @@
 |3,1,36,0,1,0,1727803378,"a"
 
 # File marks:
-'0  9  7  ~/server.sh
-|4,48,9,7,1727803400,"~/server.sh"
-'1  8  19  ~/server.sh
-|4,49,8,19,1727803338,"~/server.sh"
-'2  9  3  ~/server.sh
-|4,50,9,3,1727803338,"~/server.sh"
-'3  8  23  ~/server.sh
-|4,51,8,23,1727803230,"~/server.sh"
-'4  9  7  ~/server.sh
-|4,52,9,7,1727803230,"~/server.sh"
-'5  2  12  /home/sv.sh
-|4,53,2,12,1727802935,"/home/sv.sh"
-'6  1  0  /home/server.sh
-|4,54,1,0,1727802765,"/home/server.sh"
-'7  2  9  /home/server.sh
-|4,55,2,9,1727802755,"/home/server.sh"
+'0  10  6  ~/mem.sh
+|4,48,10,6,1727808157,"~/mem.sh"
+'1  9  7  ~/server.sh
+|4,49,9,7,1727803400,"~/server.sh"
+'2  8  19  ~/server.sh
+|4,50,8,19,1727803338,"~/server.sh"
+'3  9  3  ~/server.sh
+|4,51,9,3,1727803338,"~/server.sh"
+'4  8  23  ~/server.sh
+|4,52,8,23,1727803230,"~/server.sh"
+'5  9  7  ~/server.sh
+|4,53,9,7,1727803230,"~/server.sh"
+'6  2  12  /home/sv.sh
+|4,54,2,12,1727802935,"/home/sv.sh"
+'7  1  0  /home/server.sh
+|4,55,1,0,1727802765,"/home/server.sh"
 '8  2  9  /home/server.sh
 |4,56,2,9,1727802755,"/home/server.sh"
-'9  8  0  /home/shellscript.sh
-|4,57,8,0,1727802484,"/home/shellscript.sh"
+'9  2  9  /home/server.sh
+|4,57,2,9,1727802755,"/home/server.sh"
 
 # Jumplist (newest first):
+-'  10  6  ~/mem.sh
+|4,39,10,6,1727808157,"~/mem.sh"
+-'  1  0  ~/mem.sh
+|4,39,1,0,1727808083,"~/mem.sh"
+-'  9  7  ~/server.sh
+|4,39,9,7,1727803400,"~/server.sh"
 -'  9  7  ~/server.sh
 |4,39,9,7,1727803400,"~/server.sh"
 -'  8  19  ~/server.sh
 |4,39,8,19,1727803372,"~/server.sh"
+-'  8  19  ~/server.sh
+|4,39,8,19,1727803372,"~/server.sh"
 -'  9  3  ~/server.sh
 |4,39,9,3,1727803338,"~/server.sh"
+-'  9  3  ~/server.sh
+|4,39,9,3,1727803338,"~/server.sh"
+-'  9  7  ~/server.sh
+|4,39,9,7,1727803230,"~/server.sh"
 -'  9  7  ~/server.sh
 |4,39,9,7,1727803230,"~/server.sh"
 -'  1  0  ~/server.sh
@@ -70,6 +82,12 @@
 |4,39,1,0,1727803118,"~/server.sh"
 -'  1  0  ~/server.sh
 |4,39,1,0,1727803118,"~/server.sh"
+-'  1  0  ~/server.sh
+|4,39,1,0,1727803118,"~/server.sh"
+-'  1  0  ~/server.sh
+|4,39,1,0,1727803118,"~/server.sh"
+-'  1  0  ~/server.sh
+|4,39,1,0,1727803118,"~/server.sh"
 -'  2  12  /home/sv.sh
 |4,39,2,12,1727802935,"/home/sv.sh"
 -'  2  12  /home/sv.sh
@@ -86,6 +104,38 @@
 |4,39,2,12,1727802935,"/home/sv.sh"
 -'  2  12  /home/sv.sh
 |4,39,2,12,1727802935,"/home/sv.sh"
+-'  2  12  /home/sv.sh
+|4,39,2,12,1727802935,"/home/sv.sh"
+-'  2  12  /home/sv.sh
+|4,39,2,12,1727802935,"/home/sv.sh"
+-'  2  12  /home/sv.sh
+|4,39,2,12,1727802935,"/home/sv.sh"
+-'  2  12  /home/sv.sh
+|4,39,2,12,1727802935,"/home/sv.sh"
+-'  2  12  /home/sv.sh
+|4,39,2,12,1727802935,"/home/sv.sh"
+-'  2  12  /home/sv.sh
+|4,39,2,12,1727802935,"/home/sv.sh"
+-'  2  12  /home/sv.sh
+|4,39,2,12,1727802935,"/home/sv.sh"
+-'  2  12  /home/sv.sh
+|4,39,2,12,1727802935,"/home/sv.sh"
+-'  1  0  /home/sv.sh
+|4,39,1,0,1727802837,"/home/sv.sh"
+-'  1  0  /home/sv.sh
+|4,39,1,0,1727802837,"/home/sv.sh"
+-'  1  0  /home/sv.sh
+|4,39,1,0,1727802837,"/home/sv.sh"
+-'  1  0  /home/sv.sh
+|4,39,1,0,1727802837,"/home/sv.sh"
+-'  1  0  /home/sv.sh
+|4,39,1,0,1727802837,"/home/sv.sh"
+-'  1  0  /home/sv.sh
+|4,39,1,0,1727802837,"/home/sv.sh"
+-'  1  0  /home/sv.sh
+|4,39,1,0,1727802837,"/home/sv.sh"
+-'  1  0  /home/sv.sh
+|4,39,1,0,1727802837,"/home/sv.sh"
 -'  1  0  /home/sv.sh
 |4,39,1,0,1727802837,"/home/sv.sh"
 -'  1  0  /home/sv.sh
@@ -134,130 +184,88 @@
 |4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
 |4,39,1,0,1727802765,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
--'  2  9  /home/server.sh
-|4,39,2,9,1727802755,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
 -'  1  0  /home/server.sh
-|4,39,1,0,1727802541,"/home/server.sh"
--'  8  0  /home/shellscript.sh
-|4,39,8,0,1727802484,"/home/shellscript.sh"
--'  8  0  /home/shellscript.sh
-|4,39,8,0,1727802484,"/home/shellscript.sh"
--'  8  0  /home/shellscript.sh
-|4,39,8,0,1727802484,"/home/shellscript.sh"
--'  8  0  /home/shellscript.sh
-|4,39,8,0,1727802484,"/home/shellscript.sh"
--'  8  0  /home/shellscript.sh
-|4,39,8,0,1727802484,"/home/shellscript.sh"
--'  8  0  /home/shellscript.sh
-|4,39,8,0,1727802484,"/home/shellscript.sh"
--'  8  0  /home/shellscript.sh
-|4,39,8,0,1727802484,"/home/shellscript.sh"
--'  8  0  /home/shellscript.sh
-|4,39,8,0,1727802484,"/home/shellscript.sh"
--'  8  0  /home/shellscript.sh
-|4,39,8,0,1727802484,"/home/shellscript.sh"
--'  8  0  /home/shellscript.sh
-|4,39,8,0,1727802484,"/home/shellscript.sh"
--'  8  0  /home/shellscript.sh
-|4,39,8,0,1727802484,"/home/shellscript.sh"
--'  8  0  /home/shellscript.sh
-|4,39,8,0,1727802484,"/home/shellscript.sh"
--'  8  0  /home/shellscript.sh
-|4,39,8,0,1727802484,"/home/shellscript.sh"
+|4,39,1,0,1727802765,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
+-'  2  9  /home/server.sh
+|4,39,2,9,1727802755,"/home/server.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/mem.sh
+	*	1727808156	0
+	"	10	6
+	^	10	7
+	.	10	6
+	+	3	16
+	+	10	6
 
 > ~/server.sh
 	*	1727803397	0
